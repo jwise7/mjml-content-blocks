@@ -1,0 +1,34 @@
+<mjml>
+    <mj-head>
+        <mj-title>Awesome Email!</mj-title>
+    </mj-head>
+    <mj-body>
+        <mj-section>
+            <!-- block email-header-->
+            <mj-column>
+                <mj-text>
+                    Awesome Email Header
+                </mj-text>
+            </mj-column>
+            <!-- block email-header-->
+        </mj-section>
+        <mj-section>
+            <!-- block email-copy-->
+            <mj-column>
+                <mj-text>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                </mj-text>
+            </mj-column>
+            <!-- block email-copy-->
+        </mj-section>
+        <mj-section>
+            <!-- block email-footer-->
+            <mj-column>
+                <mj-text>
+                    © 2023 Jesse Wise
+                </mj-text>
+            </mj-column>
+            <!-- block email-footer-->
+        </mj-section>
+    </mj-body>
+</mjml>

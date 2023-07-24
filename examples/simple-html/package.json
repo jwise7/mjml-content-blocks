@@ -1,0 +1,10 @@
+{
+    "type": "module",
+    "name": "simple-case",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+      "parse-html":"node ../../ET-parser.js template.html"
+    },
+    "author": "Jesse Wise"
+}
